@@ -1,0 +1,9 @@
+.hugo_build.lock
+.hvm
+/.vscode
+/node_modules
+/public
+/resources
+/prebuild/.hugo_build.lock
+/prebuild/public
+/prebuild/resources
