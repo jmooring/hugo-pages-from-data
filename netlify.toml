@@ -11,5 +11,5 @@ publish = "public"
 
 [build.environment]
 DART_SASS_VERSION = "1.56.2"
-HUGO_VERSION = "0.109.0"
+HUGO_VERSION = "0.112.1"
 TZ = "America/Los_Angeles"
